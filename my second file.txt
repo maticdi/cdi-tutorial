@@ -1,3 +1,7 @@
 this is a working file
 
+<<<<<<< HEAD
 this is very interesting 
+=======
+this is a change from enku
+>>>>>>> a94f200488d835326b2e8e84bda20aa4f1ac8d66
